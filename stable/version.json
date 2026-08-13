@@ -1,0 +1,10 @@
+{
+  "version": "3.21.5-RC13.2",
+  "build": 1302,
+  "channel": "stable",
+  "mandatory": false,
+  "url": "",
+  "sha256": "",
+  "size": 0,
+  "notes": "OTA manifest detection test"
+}
