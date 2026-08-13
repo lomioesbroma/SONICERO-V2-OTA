@@ -1,10 +1,10 @@
 {
-  "version": "3.21.5-RC13.7",
-  "build": 1307,
+  "version": "3.21.5-RC13.12",
+  "build": 1312,
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
-  "sha256": "c5000a5415f8ed1a786ebcf8c746d6e8cc4f3576bd3d60e8e16affda82cefa4c",
-  "size": 1311776,
-  "notes": "Prueba OTA RC13.6 a RC13.7 con progreso TFT y diagnostico de tiempos"
+  "sha256": "aa315385f22211d4f3f99a9e8d555174c718fe3dd6c8548695217148f222f9c7",
+  "size": 1319456,
+  "notes": "RC13.12 - Infraestructura de rollback seguro para actualizaciones OTA"
 }
