@@ -1,10 +1,10 @@
 {
-  "version": "3.21.5-RC13.4",
-  "build": 1304,
+  "version": "3.21.5-RC13.5",
+  "build": 1305,
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
-  "sha256": "4d913c62cd25579b460dfdfda37e0c2e0b0cd4e51de675ee18aa9f60968e55e4",
-  "size": 1311072,
-  "notes": "Primera prueba de actualizacion OTA real"
+  "sha256": "41dc33bf29d1b5c715abd1f0a054b2df48dcc611b349c12bb0a80a9a7c6bb1a4",
+  "size": 1311600,
+  "notes": "Mejora visual y diagnostico del proceso OTA"
 }
