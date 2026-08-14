@@ -1,10 +1,10 @@
 {
-  "version": "3.21.5-RC13.13",
-  "build": 1313,
+  "version": "3.21.5-RC13.14",
+  "build": 1314,
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
-  "sha256": "6fd65a0f95ce8ccb1bea410bfdc438e13b9d1a0ea8328fd733ad80ecb36f9c81",
-  "size": 1323728,
-  "notes": "RC13.13 TEST - Prueba controlada de rollback OTA y correccion del parpadeo de la pantalla de actualizacion"
+  "sha256": "a773971e855943ab7c2bda2ba274b19af6d38a31485e74270e807ea96981cef5",
+  "size": 1323440,
+  "notes": "RC13.14 - Rollback validado y mejora del refresco de la pantalla OTA"
 }
