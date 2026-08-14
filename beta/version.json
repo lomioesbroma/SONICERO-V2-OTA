@@ -4,7 +4,7 @@
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
-  "sha256": "aa315385f22211d4f3f99a9e8d555174c718fe3dd6c8548695217148f222f9c7",
-  "size": 1319456,
+  "sha256": "e351109a1c69c77ffd74c08e2ffc41af6b26e5314ee700d15f1f99e786cec854",
+  "size": 1321984,
   "notes": "RC13.12 - Infraestructura de rollback seguro para actualizaciones OTA"
 }
