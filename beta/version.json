@@ -1,6 +1,6 @@
 {
-  "version": "3.21.5-RC13.25",
-  "build": 1325,
+  "version": "3.21.5-RC13.28",
+  "build": 1328,
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
