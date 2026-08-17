@@ -1,10 +1,10 @@
 {
-  "version": "3.21.5-RC13.28",
-  "build": 1328,
+  "version": "3.21.5-RC13.34",
+  "build": 1334,
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
-  "sha256": "dde3aa38c0f4a8fac933416a499719194e1bedee5c330a5b8840f8da0b8c3fb4",
-  "size": 1323440,
-  "notes": "RC13.15 TEST - Prueba de la pantalla de progreso OTA de RC13.14"
+  "sha256": "853e449035c7250863d839ec4211dc49adfabed9b04e4f30440b1c40802b840c",
+  "size": 1392624,
+  "notes": "RC13.34 - Nuevo efecto FADE en balizas y correccion del selector RGB/KITT/FADE"
 }
