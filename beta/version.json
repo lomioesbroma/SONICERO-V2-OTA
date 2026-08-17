@@ -4,7 +4,7 @@
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
-  "sha256": "853e449035c7250863d839ec4211dc49adfabed9b04e4f30440b1c40802b840c",
+  "sha256": "37f90440c0ef56b1f2d733840168856703c45b11702d5f4981115be098750feb",
   "size": 1392624,
-  "notes": "RC13.34 - Nuevo efecto FADE en balizas y correccion del selector RGB/KITT/FADE"
+  "notes": "RC13.35 - Nuevo efecto FADE en balizas y correccion del selector RGB/KITT/FADE"
 }
