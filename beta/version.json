@@ -1,10 +1,10 @@
 {
-  "version": "3.21.5-RC13.43",
-  "build": 1343,
+  "version": "3.21.5-RC13.52",
+  "build": 1352,
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
-  "sha256": "63734fc0a9a4d1754b64fdba4b0cc10fc243a48f5eb9edddf665fcb70bd484c9",
-  "size": 1395296,
-  "notes": "RC13.43 - Algoritmo de carga personalizado con ajuste fino"
+  "sha256": "0c2afc56d824670c41166125542c9e24ce51d562eafd9bce8cb7e84b86e23ad7",
+  "size": 1397392,
+  "notes": "RC13.52 - Nuevo efecto FIESTA en balizas"
 }
