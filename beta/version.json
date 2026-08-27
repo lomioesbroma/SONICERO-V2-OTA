@@ -1,10 +1,10 @@
 {
-  "version": "3.21.5-RC13.52",
-  "build": 1352,
+  "version": "3.21.5-RC13.58",
+  "build": 1358,
   "channel": "beta",
   "mandatory": false,
   "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
-  "sha256": "0c2afc56d824670c41166125542c9e24ce51d562eafd9bce8cb7e84b86e23ad7",
-  "size": 1397392,
-  "notes": "RC13.52 - Nuevo efecto FIESTA en balizas"
+  "sha256": "e73cffaacc68922e822fbc51cddcf30b21c5261890fca2359f2ca529de01ab0b",
+  "size": 1398176,
+  "notes": "RC13.58 - Watchdog de autorrecuperacion para animaciones KITT y FIESTA"
 }
