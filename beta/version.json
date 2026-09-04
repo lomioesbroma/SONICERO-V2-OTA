@@ -1,0 +1,10 @@
+{
+  "version": "3.22.1-RC14.1",
+  "build": 1401,
+  "channel": "beta",
+  "mandatory": false,
+  "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
+  "sha256": "47b0b63874d4dbfb17655be5c8c0becade37ba8197a749ae9e3ad8361f383678",
+  "size": 1442416,
+  "notes": "RC14.1 - Modo SIMULADO coherente: potencia, tension, intensidad, energia y coste"
+}
