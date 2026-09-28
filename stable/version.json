@@ -1,10 +1,10 @@
 {
-  "version": "3.21.5-RC13.2",
-  "build": 1302,
-  "channel": "stable",
+  "version": "3.21.5-RC13.63",
+  "build": 1363,
+  "channel": "beta",
   "mandatory": false,
-  "url": "",
-  "sha256": "",
-  "size": 0,
-  "notes": "OTA manifest detection test"
+  "url": "https://raw.githubusercontent.com/lomioesbroma/SONICERO-V2-OTA/main/beta/SONICERO_V2.ino.bin",
+  "sha256": "989146943605a6c3d2775d7400d007fdd8c1992dc41f62074481c1c2fffa7906",
+  "size": 1398128,
+  "notes": "RC13.63 - Version estable anterior para prueba de bloqueos"
 }
